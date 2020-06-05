@@ -1,6 +1,6 @@
 # planets-pick-display
 
-Javascript project required any supported code editor to run this code.
+Javascript, Html, Css based project required any supported code editor to run this code.
 
 Usage:
 
