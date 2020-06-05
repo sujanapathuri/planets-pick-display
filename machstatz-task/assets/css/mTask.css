@@ -1,0 +1,53 @@
+body{
+	background-image: url('https://img.wallpapersafari.com/desktop/1920/1080/11/90/bjSWiq.jpg');
+}
+
+h1{
+	color: white;
+	text-align: center;
+}
+
+p{
+	color: white;
+	text-align: center;
+	font-size: 20px;
+}
+
+.planet1{
+text-align: center;
+}
+
+button{
+	color: blue;
+	font-weight: 700;
+	padding: 10px;
+    margin: 0 25px;
+}
+
+.planet2{
+    display: none;
+    color: white;
+	padding: 10px;
+	margin: 0 35%;
+}
+
+.planet3{
+	display: none;
+	margin: 0 40%;
+}
+
+#GB{
+	font-size: 15px;
+	width: 100px;
+	height: 40px;
+}
+
+.planet4{
+	  display: none;
+	 color: white;
+}
+
+.planet5{
+	margin: 0 35%;
+	font-size: 15px;
+}
